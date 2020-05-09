@@ -37,3 +37,4 @@
 127.0.0.1       gearbest.com
 127.0.0.1       dadsecs.com
 127.0.0.1       netpatas.com
+127.0.0.1       iir.ai
