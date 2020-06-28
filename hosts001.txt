@@ -40,3 +40,4 @@
 127.0.0.1       iir.ai
 127.0.0.1       viion.pw
 127.0.0.1       aii.sh
+127.0.0.1       shrinkme.in
