@@ -43,3 +43,4 @@
 127.0.0.1       shrinkme.in
 127.0.0.1       dz4win.com
 127.0.0.1       short2.cash
+127.0.0.1       adshrink.it
