@@ -47,3 +47,4 @@
 127.0.0.1       illink.net
 127.0.0.1       expertvn.com
 127.0.0.1       downfile.site
+127.0.0.1       janusnotes.com
