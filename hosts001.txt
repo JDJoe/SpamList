@@ -51,4 +51,6 @@
 127.0.0.1       torrentz2.unblocked2.icu #shit site that uses pop-over crap
 127.0.0.1       bitfly.io
 127.0.0.1       freemarkeeter.com
+127.0.0.1       icutlink.com
+127.0.0.1       tii.ai
 127.0.0.1       adshrink.it
