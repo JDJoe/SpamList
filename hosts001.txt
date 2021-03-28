@@ -55,3 +55,7 @@
 127.0.0.1       tii.ai
 127.0.0.1       adshrink.it
 127.0.0.1       downphanmem.com
+127.0.0.1       link1s.com
+127.0.0.1       expertvn.com
+127.0.0.1       tii.a
+127.0.0.1       linksly.co
