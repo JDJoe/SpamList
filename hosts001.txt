@@ -62,3 +62,4 @@
 127.0.0.1       tii.a
 127.0.0.1       linksly.co
 127.0.0.1       fcc.lc
+127.0.0.1       yoshare.net
