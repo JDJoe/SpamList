@@ -63,3 +63,5 @@
 127.0.0.1       linksly.co
 127.0.0.1       fcc.lc
 127.0.0.1       yoshare.net
+127.0.0.1       tny.so
+127.0.0.1       gearbest.com
