@@ -65,3 +65,6 @@
 127.0.0.1       yoshare.net
 127.0.0.1       tny.so
 127.0.0.1       gearbest.com
+127.0.0.1       mfk-shorter.com
+127.0.0.1       forex-articles.com
+127.0.0.1       shrinke.me
