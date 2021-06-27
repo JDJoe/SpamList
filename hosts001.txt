@@ -68,3 +68,6 @@
 127.0.0.1       mfk-shorter.com
 127.0.0.1       forex-articles.com
 127.0.0.1       shrinke.me
+127.0.0.1       genpassword.top
+127.0.0.1       theicongenerator.com
+127.0.0.1       jameeltips.us
