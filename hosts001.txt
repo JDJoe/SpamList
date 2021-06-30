@@ -71,3 +71,5 @@
 127.0.0.1       genpassword.top
 127.0.0.1       theicongenerator.com
 127.0.0.1       jameeltips.us
+127.0.0.1       toptechtalk.xyz
+127.0.0.1       kiemlua.com
