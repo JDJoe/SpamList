@@ -73,3 +73,10 @@
 127.0.0.1       jameeltips.us
 127.0.0.1       toptechtalk.xyz
 127.0.0.1       kiemlua.com
+127.0.0.1       mobi2c.com
+127.0.0.1       rodjulian.com
+127.0.0.1       blogginglass.com
+127.0.0.1       go.mozlink.net
+127.0.0.1       m.finanzas-vida.com
+127.0.0.1       linkres.in
+127.0.0.1       linkfly.io
