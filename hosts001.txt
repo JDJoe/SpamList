@@ -63,7 +63,7 @@
 127.0.0.1       linksly.co
 127.0.0.1       fcc.lc
 127.0.0.1       yoshare.net
-127.0.0.1       tny.so
+# 127.0.0.1       tny.so
 127.0.0.1       gearbest.com
 127.0.0.1       mfk-shorter.com
 127.0.0.1       forex-articles.com
@@ -80,3 +80,6 @@
 127.0.0.1       m.finanzas-vida.com
 127.0.0.1       linkres.in
 127.0.0.1       linkfly.io
+127.0.0.1       fc-lc.com
+127.0.0.1       clk.asia
+127.0.0.1       tei.ai
