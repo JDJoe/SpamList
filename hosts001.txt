@@ -83,3 +83,6 @@
 127.0.0.1       fc-lc.com
 127.0.0.1       clk.asia
 127.0.0.1       tei.ai
+127.0.0.1       scratch247.info
+127.0.0.1       megafly.in
+127.0.0.1       ezlinks.io 
