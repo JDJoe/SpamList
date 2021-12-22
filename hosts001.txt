@@ -85,4 +85,5 @@
 127.0.0.1       tei.ai
 127.0.0.1       scratch247.info
 127.0.0.1       megafly.in
-127.0.0.1       ezlinks.io 
+127.0.0.1       ezlinks.io
+127.0.0.1       ctbl.me
