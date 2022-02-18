@@ -87,3 +87,7 @@
 127.0.0.1       megafly.in
 127.0.0.1       ezlinks.io
 127.0.0.1       ctbl.me
+127.0.0.1       markipli.com
+127.0.0.1       netfile.cc
+127.0.0.1       go.insurance-space.xyz
+127.0.0.1       insurglobal.xyz
