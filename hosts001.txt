@@ -91,3 +91,4 @@
 127.0.0.1       netfile.cc
 127.0.0.1       go.insurance-space.xyz
 127.0.0.1       insurglobal.xyz
+127.0.0.1       adinsurance.xyz
