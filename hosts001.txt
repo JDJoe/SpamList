@@ -94,3 +94,5 @@
 127.0.0.1       adinsurance.xyz
 127.0.0.1       droplink.co
 127.0.0.1       link1s.net
+127.0.0.1       skincarie.com
+127.0.0.1       linkszia.co  
