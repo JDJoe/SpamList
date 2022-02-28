@@ -92,3 +92,5 @@
 127.0.0.1       go.insurance-space.xyz
 127.0.0.1       insurglobal.xyz
 127.0.0.1       adinsurance.xyz
+127.0.0.1       droplink.co
+127.0.0.1       link1s.net
